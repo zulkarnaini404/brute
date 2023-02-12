@@ -1,3 +1,4 @@
+## Install Script
 ````bash
 pkg update && pkg upgrade 
 pkg install python 
