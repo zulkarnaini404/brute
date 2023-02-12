@@ -1,6 +1,6 @@
 #### Facebook crackers by Romz XD.
 ````python
-• BFF (Brute For Facebook)
+• BFF (Brute For Facebook) •
 ````
 ## instal script
 ````bash
