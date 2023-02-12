@@ -1,5 +1,8 @@
-##### Facebook crackers by Romz XD. BFF (Brute For Facebook)
-## Install Script
+##### Facebook crackers by Romz XD.
+````bash
+BFF (Brute For Facebook)
+````
+## instal script
 ````bash
 pkg update && pkg upgrade 
 pkg install python 
